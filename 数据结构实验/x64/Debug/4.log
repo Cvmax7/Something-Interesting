@@ -1,0 +1,6 @@
+﻿  源.cpp
+D:\CINTA作业\4\源.cpp(191,4): warning C4477: “fscanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+D:\CINTA作业\4\源.cpp(191,4): warning C4477: “fscanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“std::string”
+D:\CINTA作业\4\源.cpp(191,4): warning C4477: “fscanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 3 拥有了类型“std::string”
+D:\CINTA作业\4\源.cpp(191,4): warning C4477: “fscanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 4 拥有了类型“std::string”
+  4.vcxproj -> D:\CINTA作业\4\x64\Debug\4.exe
